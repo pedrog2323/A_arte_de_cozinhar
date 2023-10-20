@@ -1,5 +1,5 @@
 <footer>
-  <p>Hora de Codar &copy; 2020</p>
+  <p>Hora de Cozinhar &copy; 2020</p>
 </footer>
 </body>
 </html>

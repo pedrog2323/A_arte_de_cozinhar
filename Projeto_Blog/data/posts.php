@@ -3,7 +3,7 @@
   $posts = [
     [
       'id' => 1,
-      'title' => 'Programando em PHP',
+      'title' => 'Aprendendo novas receitas, para seu cardápio caseiro.',
       'description' => 'Neste post você vai aprender tudo que precisa para ser um bom programador de PHP!',
       'tags' => ['programação', 'PHP', 'lógica de programação'],
       'img' => 'prog-1.jpg'
