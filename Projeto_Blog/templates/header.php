@@ -18,7 +18,7 @@
 <body>
   <header>
     <a href="<?= $BASE_URL ?>" id="logo">
-      <img src="<?= $BASE_URL ?>/img/logo.svg" alt="Blog Codar">
+      <img src="<?= $BASE_URL ?>/img/arte_logo.jfif" alt="Blog Codar">
     </a>
     <nav>
       <ul id="navbar">
