@@ -3,9 +3,9 @@
   $posts = [
     [
       'id' => 1,
-      'title' => 'Aprendendo novas receitas, para seu cardápio caseiro.',
-      'description' => 'Neste post você vai aprender tudo que precisa para ser um bom programador de PHP!',
-      'tags' => ['programação', 'PHP', 'lógica de programação'],
+      'title' => 'Cozinhando em casa!',
+      'description' => 'Neste post você vai aprender tudo que precisa para complementar seu cardpio caseiro!',
+      'tags' => ['receitas', 'simples', 'caseiras'],
       'img' => 'prog-1.jpg'
     ],
     [
