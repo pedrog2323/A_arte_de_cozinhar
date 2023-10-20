@@ -22,14 +22,14 @@ main {
 }
 
 #logo img {
-  width: 70px;
+  width: 80px;
 }
 
 #navbar {
   display: flex;
   align-items: center;
   justify-content: center;
-  background-color: #161616;
+  background-color: #e9d551;
   padding: 20px;
   text-transform: uppercase;
   list-style: none;
