@@ -1,0 +1,9 @@
+/*caixas de texto e botões do contato*/
+.texto {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100vh;
+    margin: 0;
+}
+
