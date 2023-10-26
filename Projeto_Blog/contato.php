@@ -11,27 +11,62 @@
   <p align='center'>Por favor, preencha o formulário abaixo para entrar em contato conosco. Certifique-se de incluir suas informações de contato corretas para que possamos responder prontamente.</p>
   <br>
   <form>
-        <input type="text" name="name" placeholder="Nome">
-        <input type="email" name="email" placeholder="E-mail">
-        <input type="message" name="message" placeholder="Mensagem">
-        <input type="submit" value="Enviar">
+    <div class="formcontato">
+        <input type="text" id="name" name="name" placeholder="Nome">
+        <input type="email" id="email" name="email" placeholder="E-mail">
+        <input type="text" id="message" name="message" placeholder="Mensagem">
+        <input type="submit" id="submit" value="Enviar">
+    </div>
         <br>
         <br>
   </form>
-  <h1 align='center'>Nossos Canais de Mídia Social</h1>
-  <p align='center'>Siga-nos nas redes sociais para ficar atualizado com nossas últimas receitas, dicas culinárias e notícias emocionantes sobre o mundo da gastronomia. Não hesite em nos enviar mensagens através dessas plataformas também.</p>
-<p>Instagram: [Link do Instagram]</p>
-<p>Twitter: [Link do Twitter]</p>
-<p>Pinterest: [Link do Pinterest]</p>
+
+
 <?php
   include_once("templates/footer.php")
 ?>
+
+
 <style>
+  body {
+    padding-bottom: 200px;
+  }
+
+  p {
+    margin-left: 100px;
+    margin-right: 100px;
+  }
+
   form{
     /* Centralizar o formulário na pagina */
   margin: 0 auto;
   width: 400px;
-    
-
   }
+
+  input {
+    margin-bottom: 4px;
+  }
+
+  #message {
+    height: 100px;
+    border-radius: 3px;
+  }
+
+  #name {
+    height: 30px;
+    border-radius: 3px;
+  }
+
+  #email {
+    height: 30px;
+    border-radius: 3px;
+  }
+
+  .formcontato{
+    display: flex;
+    flex-direction: column;
+    overflow: auto;
+  }
+
+
 </style>
