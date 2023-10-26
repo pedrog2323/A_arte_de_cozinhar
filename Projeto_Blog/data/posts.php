@@ -5,28 +5,28 @@
       'id' => 1,
       'title' => 'Cozinhando em casa!',
       'description' => 'Neste post você vai aprender tudo que precisa para complementar seu cardpio caseiro!',
-      'tags' => ['receitas', 'simples', 'caseiras'],
-      'img' => 'prog-1.jpg'
+      'tags' => ['Receitas', 'Simples', 'Caseiras'],
+      'img' => 'main3.jpg'
     ],
     [
       'id' => 2,
-      'title' => 'Orientação a Objetos com Java',
-      'description' => 'Aprenda o paradigma de orientação a objetos com Java, uma linguagem em alta no mercado.',
-      'tags' => ['Java', 'OOP', 'Programação Avançada'],
-      'img' => 'prog-2.jpg'
+      'title' => 'Bolo de cenoura: um clássico que nunca sai de moda',
+      'description' => 'O bolo de cenoura é um clássico da culinária brasileira. É um bolo doce e úmido, com um sabor irresistível.',
+      'tags' => ['Bolos', 'Receitas', 'Simples'],
+      'img' => 'bolodecenoura.jpeg'
     ],
     [
       'id' => 3,
-      'title' => 'A importância da lógica de programação',
-      'description' => 'A lógica de programação é o ponto inicial de muitos estudantes de programação, será que é importante?',
-      'tags' => ['lógica', 'programação', 'algoritmos'],
-      'img' => 'prog-3.jpg',
+      'title' => 'Lasanha de carne moída',
+      'description' => 'A lasanha de carne moída é um prato clássico da culinária italiana, que conquistou o paladar de pessoas de todo o mundo. É um prato delicioso, fácil de fazer e perfeito para qualquer ocasião.',
+      'tags' => ['Massa', 'Caseiro', 'Receitas'],
+      'img' => 'lasanha3.jpg',
     ],
     [
       'id' => 4,
-      'title' => 'Programando em PHP',
-      'description' => 'Neste post você vai aprender tudo que precisa para ser um bom programador de PHP!',
-      'tags' => ['programação', 'PHP', 'lógica de programação'],
-      'img' => 'prog-4.jpg'
+      'title' => 'Bolinho de arroz: um aperitivo perfeito para qualquer ocasião',
+      'description' => 'O bolinho de arroz é um aperitivo clássico da culinária brasileira. É feito com ingredientes simples e fáceis de encontrar, e é uma ótima maneira de reaproveitar arroz cozido.',
+      'tags' => ['Arroz', 'Receitas', 'Aperitivo'],
+      'img' => 'bolinhodearroz2.jpg'
     ],
   ];
