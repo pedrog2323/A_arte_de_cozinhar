@@ -13,7 +13,7 @@
       'title' => 'Bolo de cenoura: um clássico que nunca sai de moda',
       'description' => 'O bolo de cenoura é um clássico da culinária brasileira. É um bolo doce e úmido, com um sabor irresistível.',
       'tags' => ['Bolos', 'Receitas', 'Simples'],
-      'img' => 'bolodecenoura2.jfif'
+      'img' => 'bolodecenoura.jfif'
     ],
     [
       'id' => 3,
