@@ -20,8 +20,11 @@
         <br>
         <br>
   </form>
-
-
+  <h1 align='center'>Nossos Canais de Mídia Social</h1>
+  <p align='center'>Siga-nos nas redes sociais para ficar atualizado com nossas últimas receitas, dicas culinárias e notícias emocionantes sobre o mundo da gastronomia. Não hesite em nos enviar mensagens através dessas plataformas também.</p>
+<p>Instagram: [Link do Instagram]</p>
+<p>Twitter: [Link do Twitter]</p>
+<p>Pinterest: [Link do Pinterest]</p>
 <?php
   include_once("templates/footer.php")
 ?>
