@@ -31,6 +31,7 @@ A arte de cozinhar é um blog de culinária. O blog é um espaço para compartil
 <style>
   .main-text {
     padding: 80px;
+    padding-top: 30px;
   }
   .main-text > p {
     text-align: center;
