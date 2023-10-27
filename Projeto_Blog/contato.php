@@ -12,9 +12,12 @@
   <br>
   <form>
     <div class="formcontato">
+        <label for="name">Nome:</label>
         <input type="text" id="name" name="name" placeholder="Nome">
+        <label for="email">Email:</label>
         <input type="email" id="email" name="email" placeholder="E-mail">
-        <input type="text" id="message" name="message" placeholder="Mensagem">
+        <label for="message">Mensagem:</label>
+        <textarea rows="10" name="Mensagem"></textarea>
         <input type="submit" id="submit" value="Enviar">
     </div>
         <br>
@@ -44,17 +47,14 @@
 
   #message {
     height: 100px;
-    border-radius: 3px;
   }
 
   #name {
     height: 30px;
-    border-radius: 3px;
   }
 
   #email {
     height: 30px;
-    border-radius: 3px;
   }
 
   .formcontato{
@@ -63,5 +63,12 @@
     overflow: auto;
   }
 
+  form input, form textarea {
+    outline: unset;
+    border: 1px solid;
+    border-radius: 8px;
+    padding: 10px;
+    margin-bottom: 10px;
+    }
 
 </style>
