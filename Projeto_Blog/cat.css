@@ -1,6 +1,6 @@
 .qu{
     border: 1px solid black;
-    height: 19em;
+    height: 13em;
     width: 50em;
     padding: 0em;
     margin-left: 16em;
@@ -16,5 +16,37 @@ footer {
 }
 
 .qu p{
+    margin: 1em;
+}
+.qu1{
+    border: 1px solid black;
+    height: 16em;
+    width: 50em;
+    padding: 0em;
+    margin-left: 16em;
+    margin-bottom: 0em;
+    margin-top: 7em;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.qu1 p{
+    margin: 1em;
+}
+
+.qu2{
+    border: 1px solid black;
+    height: 16em;
+    width: 50em;
+    padding: 0em;
+    margin-left: 16em;
+    margin-bottom: 0em;
+    margin-top: 7em;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.qu2 p{
     margin: 1em;
 }

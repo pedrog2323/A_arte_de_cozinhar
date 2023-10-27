@@ -28,7 +28,7 @@
     <img src="img/fra.jpg" id=br height="200em" width="400em" margin-bottom="5px">
 </div>
 
-<div class="qu" height="70em">
+<div class="qu1" height="70em">
     <p><strong>Culinária Italiana</strong></p>
     <br>
     <p>Os pratos italianos são feitos, basicamente, de massa. Além disso, utilizam muito azeite de oliva, temperos e especiarias, legumes, grãos e cereais. Também tem muitos frutos do mar na sua gastronomia, devido à localização litorânea.</p>
@@ -36,7 +36,7 @@
     <img src="img/ita.jpg" id=br height="250em" width="1000em" margin-bottom="5px">
 </div>
 
-<div class="qu" height="70em">
+<div class="qu2" height="70em">
     <p><strong>Culinária Japonesa</strong></p>
     <br>
     <p>A comida tradicional japonesa é composta, principalmente, por arroz, peixe, sopas de missô, carne e picles, chamado de tsukemono no país. Além dos seus ingredientes principais, os temperos também são os grandes protagonistas das comidas típicas do Japão.</p>
