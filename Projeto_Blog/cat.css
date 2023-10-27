@@ -1,0 +1,19 @@
+.qu{
+    border: 1px solid black;
+    height: 19em;
+    width: 50em;
+    padding: 2em;
+    margin-left: 16em;
+    margin-bottom: 10em;
+    margin-top: 7em;
+    display: flex;
+    justify-content: center;
+}
+
+.qu p{
+    margin: 1em;
+}
+
+#bra{
+
+}
