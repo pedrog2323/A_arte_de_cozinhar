@@ -26,7 +26,7 @@
       'id' => 4,
       'title' => 'Bolinho de arroz: um aperitivo perfeito para qualquer ocasião',
       'description' => 'O bolinho de arroz é um aperitivo clássico da culinária brasileira. É feito com ingredientes simples e fáceis de encontrar, e é uma ótima maneira de reaproveitar arroz cozido.',
-      'tags' => ['Arroz', 'Receitas', 'Aperitivo'],
+      'tags' => ['Caseiro', 'Receitas', 'Aperitivo'],
       'img' => 'bolinhodearroz2.jpg'
     ],
   ];

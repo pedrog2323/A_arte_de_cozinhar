@@ -1,11 +1,10 @@
 <?php
 
   $categories = [
-    'PHP',
-    'HTML',
-    'CSS',
-    'JavaScript',
-    'Bootstrap',
-    'Java',
-    'C#'
+    'Receitas',
+    'Caseira',
+    'Bolos',
+    'Simples',
+    'Massa',
+    'Aperitivos',
   ];
