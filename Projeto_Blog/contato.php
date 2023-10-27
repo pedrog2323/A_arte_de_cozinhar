@@ -28,7 +28,7 @@
 
 <style>
   body {
-    padding-bottom: 200px;
+    padding-bottom:;
   }
 
   p {
